@@ -1,0 +1,17 @@
+{
+    "name": "arman/laravel",
+    "require": {
+        "laravel/laravel": "^10.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arman\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arman",
+            "email": "armanmarkov.dev@gmail.com"
+        }
+    ]
+}
